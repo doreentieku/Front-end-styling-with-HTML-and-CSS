@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-yellow  {
+    background-color: rgb(204, 204, 92);
+}
+.btn-yellow:hover  {
+    background-color: rgb(125, 125, 35);
+}
+
+.btn-join-movement {
+    background-color: rgb(169, 221, 75);
+}
+.btn-join-movement:hover {
+    background-color: rgb(202, 221, 166);
+}
+
+.btn-primary {
+    background-color: rgb(214, 214, 201);
+}
+.btn-primary:hover {
+    background-color: white;
+}
+
+.col-padding {
+    padding: 100px;
+}
+
+.showcase-padding {
+    padding: 100px;
+}
+
+.showcase-margin {
+    margin-bottom: 10px;
+}
+
+.body-margin {
+    margin: 200px;
+}
+.body-margin-grid {
+    margin: 30px;
+}
+.body-margin-p {
+    margin: 70px;
+}
+a img {
+    height: 34px;
+}
