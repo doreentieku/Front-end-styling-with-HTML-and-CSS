@@ -1,19 +1,19 @@
-h1{
+h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
 .heading {
     font-family: 'Times New Roman', Times, serif;
 }
-.btn-yellow  {
+.btn-yellow {
     background-color: rgb(204, 204, 92);
 }
-.btn-yellow:hover  {
+.btn-yellow:hover {
     background-color: rgb(125, 125, 35);
 }
 
 .btn-join-movement {
-    background-color: rgb(169, 221, 75);
+    background-color: rgb(189, 211, 148);
 }
 .btn-join-movement:hover {
     background-color: rgb(202, 221, 166);
