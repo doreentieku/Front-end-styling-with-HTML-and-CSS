@@ -50,3 +50,10 @@ h1 {
 a img {
     height: 34px;
 }
+
+#img {
+    background: linear-gradient(rgba(31, 30, 29, 0.768), rgba(27, 1, 1, 0.8)), url('../images/Computer-Engineer-jpg.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  }
